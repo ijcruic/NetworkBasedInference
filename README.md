@@ -1,6 +1,6 @@
 # Network Based Inference
 
-This project containbs code implementing the Network Based Inference technique for use as a recommendation engine. 
+This project contains code implementing the Network Based Inference technique for use as a recommendation engine. 
 
 ## Getting Started
 
